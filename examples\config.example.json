@@ -1,0 +1,30 @@
+{
+  \"price_items\": [
+    {
+      \"name\": \"RTX 4070\",
+      \"url\": \"https://example.com/gpu\",
+      \"target_price\": 3999.0,
+      \"current_price\": 0,
+      \"currency\": \"CNY\",
+      \"notify_on_drop\": true,
+      \"check_interval_min\": 60,
+      \"last_check\": \"\",
+      \"platform\": \"jd\"
+    }
+  ],
+  \"alerts\": [
+    {
+      \"symbol\": \"BTC/USDT\",
+      \"target_high\": 70000,
+      \"target_low\": 60000,
+      \"current_price\": 0,
+      \"check_interval_min\": 30,
+      \"last_check\": \"\",
+      \"source\": \"binance\"
+    }
+  ],
+  \"telegram_token\": \"\",
+  \"telegram_chat_id\": \"\",
+  \"notify_sound\": true,
+  \"auto_start\": false
+}
