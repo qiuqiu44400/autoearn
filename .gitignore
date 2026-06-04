@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AutoEarn runtime data
+autoearn_config.json
+autoearn_data.csv
+autoearn_log.txt
+
+# OS
+.DS_Store
+Thumbs.db
